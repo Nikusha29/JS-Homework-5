@@ -1,4 +1,6 @@
 
+'use strict'
+
 // დავალება 1:
 
 let array2 = [14, 150, 'css', null, 'javascript', 25];
